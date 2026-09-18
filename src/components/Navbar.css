@@ -1,0 +1,25 @@
+.portfolio-navbar {
+  background-color: #0d1117 !important;
+  border-bottom: 1px solid #2a313c;
+  padding: 12px 0;
+}
+
+.portfolio-navbar .navbar-brand {
+  color: #a374ff !important;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+.portfolio-navbar .nav-link {
+  color: #e6edf3 !important;
+  margin: 0 10px;
+  font-size: 0.95rem;
+}
+
+.portfolio-navbar .nav-link:hover {
+  color: #58e6d9 !important;
+}
+
+.portfolio-navbar .navbar-toggler {
+  border-color: #2a313c;
+}
