@@ -1,0 +1,16 @@
+.synthese-section {
+  background: #0d1117;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  color: white;
+}
+
+.synthese-table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.placeholder-text {
+  color: #8b949e;
+  font-style: italic;
+}

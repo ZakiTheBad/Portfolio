@@ -1,0 +1,25 @@
+.veille-section {
+  background: linear-gradient(38.73deg, rgba(204, 0, 187, 0.15) 0%, rgba(201, 32, 184, 0) 50%), #0d1117;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  color: white;
+}
+
+.veille-card {
+  background: #161b22;
+  border: 1px solid #2a313c;
+  border-radius: 12px;
+  padding: 25px 30px;
+  margin-bottom: 20px;
+}
+
+.veille-card h2 {
+  color: #a374ff;
+  font-size: 1.3em;
+  margin-bottom: 10px;
+}
+
+.placeholder-text {
+  color: #8b949e;
+  font-style: italic;
+}
