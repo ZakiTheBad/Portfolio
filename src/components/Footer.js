@@ -8,8 +8,13 @@ function Footer() {
       className="footer"
       style={{
         width: "100%",
-        marginTop: "40px",
-        padding: "18px 0",
+        padding: "14px 0",
+        position: "fixed",
+        left: 0,
+        bottom: 0,
+        zIndex: 100,
+        backgroundColor: "#0d1117",
+        borderTop: "1px solid #2a313c",
       }}
     >
       <Row>
